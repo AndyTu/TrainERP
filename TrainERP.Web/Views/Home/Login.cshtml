@@ -1,0 +1,58 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "登录";
+}
+<div id="login_block" class="clearfix">
+    <div style="float: left">
+    </div>
+    <div>
+        <form>
+        <table>
+            <tbody>
+                <tr>
+                    <th>
+                        <label for="UserName">
+                            用户名</label>
+                    </th>
+                    <td>
+                        <input data-val="true" data-val-required="必填" id="UserName" name="UserName" type="text"
+                            value="" class="valid">
+                        <span class="field-validation-valid" data-valmsg-for="UserName" data-valmsg-replace="true"
+                            name=""></span>
+                    </td>
+                </tr>
+                <tr>
+                    <th>
+                        <label for="Password">
+                            密码</label>
+                    </th>
+                    <td>
+                        <input data-val="true" data-val-required="必填" id="Password" name="Password" type="password">
+                        <span class="field-validation-valid" data-valmsg-for="Password" data-valmsg-replace="true"
+                            name=""></span>
+                    </td>
+                </tr>
+                <tr>
+                    <th>
+                    </th>
+                    <td>
+                        <input defaultvalue="False" data-val="true" data-val-required="“记住我的登录状态”为必填项" id="RememberMe"
+                            name="RememberMe" type="checkbox" value="true"><input name="RememberMe" type="hidden"
+                                value="false">
+                        <label for="RememberMe" class="inline">
+                            记住我的登录状态</label>
+                    </td>
+                </tr>
+                <tr>
+                    <th>
+                    </th>
+                    <td>
+                        <button type="submit">
+                            登录</button>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        </form>
+    </div>
+</div>

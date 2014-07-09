@@ -1,0 +1,4 @@
+E:\GitHub\TrainERP\TrainERP\bin\Debug\TrainERP.dll
+E:\GitHub\TrainERP\TrainERP\bin\Debug\TrainERP.pdb
+E:\GitHub\TrainERP\TrainERP\obj\Debug\TrainERP.dll
+E:\GitHub\TrainERP\TrainERP\obj\Debug\TrainERP.pdb

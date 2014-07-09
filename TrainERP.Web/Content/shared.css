@@ -1,0 +1,96 @@
+﻿body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, button, textarea, p, blockquote, th, td {
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    border: none;
+}
+
+body {
+    font-size: 12px;
+    font-family: "Microsoft YaHei", "SimHei";
+}
+
+iframe {
+    border: 0;
+    background-color: transparent;
+}
+
+a {
+    color: #0479A7;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+a:hover {
+    color: #0479A7;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: #0479A7;
+}
+
+/* 空表格样式 */
+.clean-table {
+    border-collapse: collapse;
+    border-spacing: 0px;
+    border-color: transparent;
+    border: none;
+}
+
+/* 常用样式 */
+
+.border {
+    border: 1px #DDD solid;
+}
+
+.border_top {
+    border-top: 1px #DDD solid;
+}
+
+.border_bottom {
+    border-bottom: 1px #DDD solid;
+}
+
+.border_left {
+    border-left: 1px #DDD solid;
+}
+
+.border_right {
+    border-right: 1px #DDD solid;
+}
+
+.nodisplay {
+    display: none;
+}
+
+.fz_14 {
+    font-size: 14px;
+}
+
+.fz_16 {
+    font-size: 16px;
+}
+
+.fz_18 {
+    font-size: 18px;
+}
+
+.fz_20 {
+    font-size: 20px;
+}
+
+.clearfix {
+    zoom: 1;
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+.clearfix:before, .clearfix:after {
+    content: "";
+    display: table;
+}

@@ -1,0 +1,15 @@
+E:\GitHub\TrainERP\TrainERP\bin\TrainERP.Web.dll
+E:\GitHub\TrainERP\TrainERP\bin\TrainERP.Web.pdb
+E:\GitHub\TrainERP\TrainERP\bin\EntityFramework.dll
+E:\GitHub\TrainERP\TrainERP\bin\EntityFramework.xml
+E:\GitHub\TrainERP\TrainERP\obj\Debug\TrainERP.Web.dll
+E:\GitHub\TrainERP\TrainERP\obj\Debug\TrainERP.Web.pdb
+E:\GitHub\TrainERP\TrainERP.Web\bin\TrainERP.Web.dll
+E:\GitHub\TrainERP\TrainERP.Web\bin\TrainERP.Web.pdb
+E:\GitHub\TrainERP\TrainERP.Web\bin\EntityFramework.dll
+E:\GitHub\TrainERP\TrainERP.Web\bin\TrainERP.dll
+E:\GitHub\TrainERP\TrainERP.Web\bin\TrainERP.pdb
+E:\GitHub\TrainERP\TrainERP.Web\bin\EntityFramework.xml
+E:\GitHub\TrainERP\TrainERP.Web\obj\Debug\TrainERP.Web.csprojResolveAssemblyReference.cache
+E:\GitHub\TrainERP\TrainERP.Web\obj\Debug\TrainERP.Web.dll
+E:\GitHub\TrainERP\TrainERP.Web\obj\Debug\TrainERP.Web.pdb

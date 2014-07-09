@@ -1,7 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainERP", "TrainERP\TrainERP.csproj", "{03398D9A-FE03-4C5F-9088-579352EF18F1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainERP.Web", "TrainERP.Web\TrainERP.Web.csproj", "{03398D9A-FE03-4C5F-9088-579352EF18F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainERP", "TrainERP\TrainERP.csproj", "{735F5CC3-F97D-4563-9887-842F6745AB09}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +15,10 @@ Global
 		{03398D9A-FE03-4C5F-9088-579352EF18F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03398D9A-FE03-4C5F-9088-579352EF18F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03398D9A-FE03-4C5F-9088-579352EF18F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{735F5CC3-F97D-4563-9887-842F6745AB09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{735F5CC3-F97D-4563-9887-842F6745AB09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{735F5CC3-F97D-4563-9887-842F6745AB09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{735F5CC3-F97D-4563-9887-842F6745AB09}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
