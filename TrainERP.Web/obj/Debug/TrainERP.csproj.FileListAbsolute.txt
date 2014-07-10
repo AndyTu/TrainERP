@@ -1,7 +1,0 @@
-E:\GitHub\TrainERP\TrainERP\bin\TrainERP.dll
-E:\GitHub\TrainERP\TrainERP\bin\TrainERP.pdb
-E:\GitHub\TrainERP\TrainERP\bin\EntityFramework.dll
-E:\GitHub\TrainERP\TrainERP\bin\EntityFramework.xml
-E:\GitHub\TrainERP\TrainERP\obj\Debug\TrainERP.csprojResolveAssemblyReference.cache
-E:\GitHub\TrainERP\TrainERP\obj\Debug\TrainERP.dll
-E:\GitHub\TrainERP\TrainERP\obj\Debug\TrainERP.pdb
