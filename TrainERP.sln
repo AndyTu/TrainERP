@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainERP.Web", "TrainERP.We
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainERP", "TrainERP\TrainERP.csproj", "{735F5CC3-F97D-4563-9887-842F6745AB09}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spore", "Spore\Spore.csproj", "{1D7F583C-75A3-420D-92C4-52F8666C1FE3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{735F5CC3-F97D-4563-9887-842F6745AB09}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{735F5CC3-F97D-4563-9887-842F6745AB09}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{735F5CC3-F97D-4563-9887-842F6745AB09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D7F583C-75A3-420D-92C4-52F8666C1FE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D7F583C-75A3-420D-92C4-52F8666C1FE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D7F583C-75A3-420D-92C4-52F8666C1FE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D7F583C-75A3-420D-92C4-52F8666C1FE3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
