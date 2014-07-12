@@ -104,7 +104,9 @@
     <Compile Include="Tools\Tools.cs" />
     <Compile Include="Tools\Tools.Web.cs" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="MVCFilters\" />
+  </ItemGroup>
   <ItemGroup>
     <None Include="App.config">
       <SubType>Designer</SubType>

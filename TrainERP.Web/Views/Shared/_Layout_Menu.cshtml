@@ -3,15 +3,57 @@
 }
 @model TrainERP.Web.PageModels.MenuLayoutModel
 @section MenuHead{
-    <link href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" rel="stylesheet"type="text/css" />
-    <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.min.js" language="javascript" />
+    <link href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" rel="stylesheet"
+        type="text/css" />
+    <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.min.js" language="javascript"
+        type="text/javascript"></script>
 }
-
 <style type="text/css">
+    #menu_body
+    {
+        padding-left: 12px;
+        padding-top: 12px;
+    }
     
+    #menu_top_nav
+    {
+        height: 46px;
+        background-color: Gray;
+    }
+    
+    #below_container
+    {
+    }
+    
+    #menu_side_nav
+    {
+        float: left;
+        width: 150px;
+        position: fixed;
+        left: 12px;
+        top: 118px;
+        bottom: 31px;
+        background-color: Green;
+    }
+    
+    #menu_content
+    {
+        float: left;
+        background-color: Blue;
+    }
 </style>
-
-
+<div id="menu_body">
+    <div id="menu_top_nav">
+        <ul id="">
+        </ul>
+    </div>
+    <div id="below_container" class="clearfix">
+        <div id="menu_side_nav">
+        </div>
+        <div id="menu_content">
+        </div>
+    </div>
+</div>
 <div>
     @RenderBody()
 </div>
