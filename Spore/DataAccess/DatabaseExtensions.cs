@@ -8,7 +8,7 @@ using System.Data.Common;
 
 namespace Spore.DataAccess
 {
-    public static class DatabaseExtONSions
+    public static class DatabaseExtesnsions
     {
         public static DbCommand GetSelectCommand(this Database database, string selectcommandtext, Dictionary<string, string> paramdic)
         {

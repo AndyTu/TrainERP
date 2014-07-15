@@ -97,6 +97,7 @@
     <Compile Include="SQL\SyntaxParser.cs" />
     <Compile Include="SQL\Token.cs" />
     <Compile Include="SQL\WhereExpressionBuilder.cs" />
+    <Compile Include="Tools\Tools.Encrypt.cs" />
     <Compile Include="Tools\Tools.Image.cs" />
     <Compile Include="Tools\Tools.Json.cs" />
     <Compile Include="Tools\Tools.Regex.cs" />
@@ -104,9 +105,7 @@
     <Compile Include="Tools\Tools.cs" />
     <Compile Include="Tools\Tools.Web.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="MVCFilters\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <None Include="App.config">
       <SubType>Designer</SubType>

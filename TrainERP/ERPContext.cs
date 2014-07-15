@@ -5,7 +5,10 @@ using System.Text;
 
 namespace TrainERP
 {
-    public class Class1
+    public class ERPContext
     {
+        //登录用户信息
+
+        //
     }
 }

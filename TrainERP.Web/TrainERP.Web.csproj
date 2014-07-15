@@ -63,10 +63,13 @@
   <ItemGroup>
     <Compile Include="Controllers\AdminController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="EPRAuthorizeAttribute.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="PageModelBuilder.cs" />
     <Compile Include="PageModels\LayoutModel.cs" />
+    <Compile Include="PageModels\LoginModel.cs" />
     <Compile Include="PageModels\MenuLayoutModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
