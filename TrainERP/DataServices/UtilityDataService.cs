@@ -12,19 +12,19 @@ namespace TrainERP.DataServices
         //验证用户与密码
         public bool AutherizeUserPassword()
         {
-
+            return false;
         }
 
         //修改密码
         public bool ChangePassword()
         {
-
+            return false;
         }
 
         //获取用户对象
         public ERPUser GetERPUser()
         {
-
+            return null;
         }
 
         //创建用户
