@@ -17,7 +17,6 @@ namespace TrainERP.Web.Controllers
         }
 
         [ActionName("Login")]
-        [AcceptVerbs( HttpVerbs.Post)]
         public ActionResult Login_post()
         {
             var model = PageModelBuilder.Build<LoginModel>();
@@ -47,7 +46,8 @@ namespace TrainERP.Web.Controllers
             return View();
         }
 
-        //公告 
+        //公告
+        [EPRAuthorize("")]
         public ActionResult Notice()
         {
             return View();
